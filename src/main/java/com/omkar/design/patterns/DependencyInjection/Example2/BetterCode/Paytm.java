@@ -1,4 +1,4 @@
-package com.omkar.design.patterns.DependencyInjection.Example2;
+package com.omkar.design.patterns.DependencyInjection.Example2.BetterCode;
 
 public class Paytm implements PaymentGateway{
     @Override

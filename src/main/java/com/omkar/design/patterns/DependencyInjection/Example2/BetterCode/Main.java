@@ -1,4 +1,4 @@
-package com.omkar.design.patterns.DependencyInjection.Example2;
+package com.omkar.design.patterns.DependencyInjection.Example2.BetterCode;
 
 public class Main {
     public static void main(String[] args) {
